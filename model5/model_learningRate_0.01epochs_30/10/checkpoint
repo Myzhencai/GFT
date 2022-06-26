@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gaofei/Semantic-Segmentation/model5/model_learningRate_0.01epochs_30/10/model.ckpt"
+all_model_checkpoint_paths: "/home/gaofei/Semantic-Segmentation/model5/model_learningRate_0.01epochs_30/10/model.ckpt"
